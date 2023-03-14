@@ -1,0 +1,1 @@
+This just means functions are considered another type of value, like numbers, booleans, strings, objects, etc.
